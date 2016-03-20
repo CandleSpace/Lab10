@@ -1,0 +1,6 @@
+To set the Fluke calabrator to source current. (Very Easy)
+1.	Turn on and set to mA
+2.	Press MEAS/SOURCE once
+3.	Hit the mA again
+4.	Select Source mA
+5.	Enter value
